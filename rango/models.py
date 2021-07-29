@@ -1,4 +1,3 @@
-from rango import views
 from django.db import models
 
 # Create your models here.
